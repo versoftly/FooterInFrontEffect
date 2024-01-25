@@ -2,7 +2,7 @@
 
 <h4>It has some cons :</h4>
 <p> 
-    it is slow, only works in firefox
+    it is slow on some web browsers, only works in firefox
     and it is tested only in one machine yet : 
 </p>
 <p>
@@ -24,7 +24,7 @@
 
 <p>
     It work perfectly in google chrome. firefox has 
-    a little jumping lack on the scrolling.
+    a little jumping lack on the scrolling. 
 </p>
 
 <p>
