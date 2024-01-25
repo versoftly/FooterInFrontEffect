@@ -36,6 +36,11 @@
         <link rel="stylesheet" href="./tools/css/normalize.css">
         <title>adaptowebs</title>
         <script defer src="./tools/css/stickyHeaderandfooterLayout.js"></script>
+        <meta name="description" content="Free Web tutorials, adaptowebs">
+        <meta name="keywords" content="HTML, CSS, JavaScript, PHP, adaptowebs">
+        <meta name="author" content="Ramiro Garcia Gonzalez">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     ');
     $head = new Head($contentHead);
     $contentBody = new Content('
