@@ -44,3 +44,9 @@
     It work perfectly smooth and suprisely fast
     on small (phones), medium (tablets) screens.
 </p>
+
+<p>
+    you can create tags with inline css style,
+    using the properties methods of the class
+    Properties.
+</p>
