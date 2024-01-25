@@ -39,3 +39,8 @@
     don't forget to add the code and the <br>
     documentation of your effects on github
 </p>
+
+<p>
+    It work perfectly smooth and suprisely fast
+    on small (phones), medium (tablets) screens.
+</p>
