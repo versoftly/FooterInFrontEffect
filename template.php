@@ -60,13 +60,13 @@
                     use the class contenedor on the section html tag<br>
                     Leave the header empty
                 </p>
-                <h3>This effect works only on mozilla firefox for now.</h3>
+                <h2>This effect works only on mozilla firefox for now.</h2>
             </section>
             <footer>
-                <h4>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
-                Shaping the Future, One Web at a Time</h4>
-                <h2><a href="https://github.com/versoftly/FooterInFrontEffect">
-                FooterInFrontEffect - BETA -</a></h2>
+                <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
+                Shaping the Future, One Web at a Time</h3>
+                <h4><a href="https://github.com/versoftly/FooterInFrontEffect">
+                FooterInFrontEffect - BETA -</a></h4>
             </footer>
         </main>
     ');
