@@ -44,25 +44,25 @@
     ');
     $head = new Head($contentHead);
     $contentBody = new Content('
-        <main class="bgimg" tabindex="0">
-            <header>
+        <main class="bgimg" tabindex="0" rol="main">
+            <header tabindex="0" rol="header">
             </header>
-            <section class="contenedor mgbnone">
-                <p>Use this template to create 
+            <section class="contenedor mgbnone" tabindex="0" rol="section">
+                <p tabindex="0" rol="pharagraph">Use this template to create 
                 awesome pieces of code.</p>
-                <h1>How to create the FooterInFront effect ?</h1>
-                <p>
+                <h1  rol="title">How to create the FooterInFront effect ?</h1>
+                <p tabindex="0" rol="pharagraph">
                     use the class bgimg on a main html tag<br>
                     inside of the main tag put a header,<br>
                     a section & a footer html tags
                 </p>
-                <p>
+                <p tabindex="0" rol="pharagraph">
                     use the class contenedor on the section html tag<br>
                     Leave the header empty
                 </p>
-                <h2>This effect works only on mozilla firefox for now.</h2>
+                <h2  rol="title">google chrome and firefox are good to start.</h2>
             </section>
-            <footer>
+            <footer  rol="footer">
                 <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
                 Shaping the Future, One Web at a Time</h3>
                 <h4><a href="https://github.com/versoftly/FooterInFrontEffect">
