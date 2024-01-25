@@ -23,6 +23,11 @@
 <h3>Pros</h3>
 
 <p>
+    It work perfectly in google chrome. firefox has 
+    a little jumping lack on the scrolling.
+</p>
+
+<p>
     use php , js, html and css <br>
     beautiful and intuitive interface <br>
     easy to customize and it is open source
