@@ -44,7 +44,7 @@
     ');
     $head = new Head($contentHead);
     $contentBody = new Content('
-        <main class="bgimg">
+        <main class="bgimg" tabindex="0">
             <header>
             </header>
             <section class="contenedor mgbnone">

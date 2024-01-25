@@ -7,12 +7,12 @@
 a {
     font-size: large;
     text-decoration: none;
-    color: #cf1010;
+    color: #bb4444;
     transition: all .5s ease;
 }
 
 a:hover {
-    color: aquamarine;
+    color: rgb(255, 210, 127);
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 }
 
 header, footer {
-    background-color: #4a90e2;
+    background-color: #803026;
     color: #fff;
     padding: 10px;
     width: 100%;
@@ -35,7 +35,7 @@ header, footer {
 }
 
 header.fade {
-    background-color: rgba(74, 144, 226, 0.7);
+    background-color: rgba(226, 97, 74, 0.7);
 }
 
 main {
