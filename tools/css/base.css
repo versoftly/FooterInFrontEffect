@@ -1,4 +1,5 @@
-* {
+* [tabindex="0"]:focus {
+    outline: 4px dashed orange;
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
