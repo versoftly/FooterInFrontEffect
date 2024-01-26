@@ -11,3 +11,13 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+.headerTexto {
+    color: var(--blanco);
+    background-color: var(--negro);
+    padding: 25px;
+    width: 20%;
+    height: 20%;
+    margin: 0px auto;
+    border-radius: 15px;
+}

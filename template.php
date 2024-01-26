@@ -49,8 +49,10 @@
     $contentBody = new Content('
         <main class="bgimg" tabindex="0" rol="main">
             <header tabindex="0" rol="header">
+                <h1>WELCOME</h1>
             </header>
-            <section class="contenedor mgbnone" tabindex="0" rol="section">
+            <section class="contenedor mgbnone" tabindex="0" 
+             style="height:400px;" rol="section">
                 <p tabindex="0" rol="pharagraph">Use this template to create 
                 awesome pieces of code.</p>
                 <h1  rol="title">How to create the FooterInFront effect ?</h1>
@@ -69,28 +71,17 @@
                     a few reasons why : <a href="https://www.youtube.com/watch?v=fQ-uQs-USfI&t=396s">
                     adaptowebs test</a>
                 </p>
-                <p>
-                    as you notice the footer go bigger
-                    lets add this p tag and see if it 
-                    gets bigger.
-                </p>
-                <p>it does and the visible space 
-                is almost gone lets see if this will be
-                the last p tag that we will be able to add
-                before we can\'t see the content</p>
-
-                <p>
-                 AS YOU CAN SEE AS SOON AS YOU GET TO THE LIMIT
-                 THE LAYOUT BEHEAVOR CHANGE AND IT JUST GET BIGGER
-                 ALLOWING US TO HAVE A COMPLETLY SMOOTHER TRANSITION
-                 IN THE EFFECT FIF
-                </p>
             </section>
             <footer  rol="footer">
                 <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
                 Shaping the Future, One Web at a Time</h3>
-                <h4><a href="https://github.com/versoftly/FooterInFrontEffect">
-                VersoftlyEffect - BETA -</a></h4>
+                <div>
+                    <a href="https://github.com/versoftly/FooterInFrontEffect">
+                    VersoftlyEffect - BETA -</a>
+                </div>
+                <div>
+                    <a href="./cafe.php">Blog de Caf&eacute;</a>
+                </div>
             </footer>
         </main>
     ');

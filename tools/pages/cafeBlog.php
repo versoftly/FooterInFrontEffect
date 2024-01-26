@@ -65,6 +65,12 @@
                 Shaping the Future, One Web at a Time</h3>
                 <h4><a href="https://github.com/versoftly/FooterInFrontEffect">
                 VersoftlyEffect - BETA -</a></h4>
+                <div>
+                    <a href="../../template.php">home</a>
+                </div>
+                <div>
+                    <a href="../../esencia.php">esencia</a>
+                </div>
             </footer>
         </main>
     ');

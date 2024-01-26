@@ -1,0 +1,6 @@
+[26-Jan-2024 13:59:27 America/Denver] PHP Fatal error:  Uncaught Error: Class "Properties" not found in /var/www/adaptowebs/tools/pages/LaEsencia.php:13
+Stack trace:
+#0 /var/www/adaptowebs/api/controllers/EsenciaController.php(6): require_once()
+#1 /var/www/adaptowebs/esencia.php(7): EsenciaController->execute_page()
+#2 {main}
+  thrown in /var/www/adaptowebs/tools/pages/LaEsencia.php on line 13

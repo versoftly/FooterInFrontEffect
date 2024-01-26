@@ -2,6 +2,9 @@
 
 <h4><strike>It has some cons :</strike></h4>
 <p> 
+    Rellene el section con contenido hasta lograr el efecto deseado
+    or just make the section height bigger and thats it 
+    problem solve now you can see your content.
     <strike>it is slow on some web browsers, only works in firefox
     and it is tested only in one machine yet : </strike>
 </p>
