@@ -139,7 +139,7 @@
                 <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
                 Shaping the Future, One Web at a Time</h3>
                 <h4><a href="https://github.com/versoftly/FooterInFrontEffect">
-                FooterInFrontEffect - BETA -</a></h4>
+                VersoftlyEffect - BETA -</a></h4>
             </footer>
         </main>
     ');

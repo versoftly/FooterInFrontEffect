@@ -1,4 +1,4 @@
-# footer in front BETA effect
+# versoftly effect BETA 
 
 <h4><strike>It has some cons :</strike></h4>
 <p> 
