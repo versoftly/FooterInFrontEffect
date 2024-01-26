@@ -2,8 +2,8 @@
 
 <h4>It has some cons :</h4>
 <p> 
-    it is slow on some web browsers, only works in firefox
-    and it is tested only in one machine yet : 
+    <strike>it is slow on some web browsers, only works in firefox
+    and it is tested only in one machine yet : </strike>
 </p>
 <p>
     Hardware model : HP HP Laptop 14-cf2xxx <br>
@@ -16,11 +16,13 @@
     Windowing System : Wayland 
 </p>
 <p>
-    also it can handle only until 3 short 
-    paraghraps or it become unstable.
+    <strike>also it can handle only until 3 short 
+    paraghraps or it become unstable.</strike>
 </p>
 
 <h3>Pros</h3>
+
+<a href="https://www.youtube.com/watch?v=LX8eFiwLa7g">watch video</a>
 
 <p>
     It work perfectly in google chrome. firefox has 
