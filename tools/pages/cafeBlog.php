@@ -28,6 +28,7 @@
             }
         </style>
         <link rel="stylesheet" href="./tools/css/base.css">
+        <link rel="stylesheet" href="./tools/css/cafeBlog.css">
         <link rel="stylesheet" href="./tools/css/bgimg.css">
         <!-- <link rel="stylesheet" href="./tools/css/boton.css"> -->
         <link rel="stylesheet" href="./tools/css/contenedor.css">
@@ -47,43 +48,13 @@
     ');
     $head = new Head($contentHead);
     $contentBody = new Content('
-        <main class="bgimg" tabindex="0" rol="main">
+        <main class="bgimgCafe" tabindex="0" rol="main">
             <header tabindex="0" rol="header">
+                <h1  rol="title">Caf&eacute; Blog</h1>
             </header>
             <section class="contenedor mgbnone" tabindex="0" rol="section">
-                <p tabindex="0" rol="pharagraph">Use this template to create 
-                awesome pieces of code.</p>
-                <h1  rol="title">How to create the FooterInFront effect ?</h1>
-                <p tabindex="0" rol="pharagraph">
-                    use the class bgimg on a main html tag<br>
-                    inside of the main tag put a header,<br>
-                    a section & a footer html tags
-                </p>
-                <p tabindex="0" rol="pharagraph">
-                    use the class contenedor on the section html tag<br>
-                    Leave the header empty
-                </p>
-                <h2  rol="title">choose your favorite web browser.</h2>
                 <p>
-                    I recommend to use google chrome here you have 
-                    a few reasons why : <a href="https://www.youtube.com/watch?v=fQ-uQs-USfI&t=396s">
-                    adaptowebs test</a>
-                </p>
-                <p>
-                    as you notice the footer go bigger
-                    lets add this p tag and see if it 
-                    gets bigger.
-                </p>
-                <p>it does and the visible space 
-                is almost gone lets see if this will be
-                the last p tag that we will be able to add
-                before we can\'t see the content</p>
-
-                <p>
-                 AS YOU CAN SEE AS SOON AS YOU GET TO THE LIMIT
-                 THE LAYOUT BEHEAVOR CHANGE AND IT JUST GET BIGGER
-                 ALLOWING US TO HAVE A COMPLETLY SMOOTHER TRANSITION
-                 IN THE EFFECT FIF
+                    starting with a !empty header =)
                 </p>
             </section>
             <footer  rol="footer">
