@@ -1,6 +1,6 @@
 # footer in front BETA effect
 
-<h4>It has some cons :</h4>
+<h4><strike>It has some cons :</strike></h4>
 <p> 
     <strike>it is slow on some web browsers, only works in firefox
     and it is tested only in one machine yet : </strike>
