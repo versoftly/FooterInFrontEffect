@@ -56,6 +56,27 @@
     Properties.
 </p>
 
+<h2>Layout Beheavior</h2>
+
+<p>
+    as you notice the footer go bigger
+    lets add this p tag and see if it 
+    gets bigger.
+</p>
+<p>
+    it does and the visible space 
+    is almost gone lets see if this will be
+    the last p tag that we will be able to add
+    before we can\'t see the content
+</p>
+
+<p>
+    AS YOU CAN SEE AS SOON AS YOU GET TO THE LIMIT
+    THE LAYOUT BEHEAVOR CHANGE AND IT JUST GET BIGGER
+    ALLOWING US TO HAVE A COMPLETLY SMOOTHER TRANSITION
+    IN THE EFFECT FIF
+</p>
+
 <h2>API</h2>
 
 <p>

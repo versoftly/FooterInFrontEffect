@@ -63,7 +63,77 @@
                     use the class contenedor on the section html tag<br>
                     Leave the header empty
                 </p>
-                <h2  rol="title">google chrome and firefox are good to start.</h2>
+                <h2  rol="title">choose your favorite web browser.</h2>
+                <p>
+                    I recommend to use google chrome here you have 
+                    a few reasons why : <a href="https://www.youtube.com/watch?v=fQ-uQs-USfI&t=396s">
+                    adaptowebs test</a>
+                </p>
+                <p>
+                    as you notice the footer go bigger
+                    lets add this p tag and see if it 
+                    gets bigger.
+                </p>
+                <p>it does and the visible space 
+                is almost gone lets see if this will be
+                the last p tag that we will be able to add
+                before we can\'t see the content</p>
+
+                <p>
+                 AS YOU CAN SEE AS SOON AS YOU GET TO THE LIMIT
+                 THE LAYOUT BEHEAVOR CHANGE AND IT JUST GET BIGGER
+                 ALLOWING US TO HAVE A COMPLETLY SMOOTHER TRANSITION
+                 IN THE EFFECT FIF
+                </p>
+
+                <p>
+                 lets create fake content 
+                 and get to the limit fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                </p>
+
+                <p>
+                 lets create fake content 
+                 and get to the limit fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                </p>
+                <p>
+                 lets create fake content 
+                 and get to the limit fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                </p>
+
+                <p>
+                 lets create fake content 
+                 and get to the limit fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                </p>
+
+                <p>
+                 lets create fake content 
+                 and get to the limit fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                 fake content 
+                 and get to the limit
+                </p>
             </section>
             <footer  rol="footer">
                 <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -
