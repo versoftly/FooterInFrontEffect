@@ -2,7 +2,10 @@
 
     ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
+    ini_set('log_errors',1);
+    ini_set('error_log','/var/www/adaptowebs/php_error_log');
     error_reporting(E_ALL);
+    http_response_code(404);
     require_once "./tools/css/Properties.php";
     require_once "./tools/html/Html.php";
     require_once "./tools/head/Head.php";
