@@ -74,7 +74,9 @@
     AS YOU CAN SEE AS SOON AS YOU GET TO THE LIMIT
     THE LAYOUT BEHEAVOR CHANGE AND IT JUST GET BIGGER
     ALLOWING US TO HAVE A COMPLETLY SMOOTHER TRANSITION
-    IN THE EFFECT FIF
+    IN THE EFFECT FIF, <br><br>
+    IMPORTANT! -> also this will fix the delay
+    on the red rectangle going down in the animation effect on firefox.
 </p>
 
 <h2>API</h2>
