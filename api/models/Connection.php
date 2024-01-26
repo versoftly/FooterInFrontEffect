@@ -4,7 +4,7 @@
 
         public static function info () {
             return [
-                "database" => "database-1",
+                "database" => "database-2",
                 "user" => "adaptowebs",
                 "pass" => "adaptowebs.Rg2"
             ];

@@ -10,11 +10,7 @@
             }
             else if (count($routesArray) == 1 && isset($_SERVER['REQUEST_METHOD'])) {
                 if ($_SERVER['REQUEST_METHOD'] == "GET") {
-                    echo json_encode ([
-                        "status" => 200,
-                        "result" => "GET",
-                        "uri" => $routesArray
-                    ]);
+                    require_once "./api/routes/Services/Get.php";
                 } else if ($_SERVER['REQUEST_METHOD'] == "POST") {
                     echo json_encode ([
                         "status" => 200,

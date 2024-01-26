@@ -55,3 +55,26 @@
     using the properties methods of the class
     Properties.
 </p>
+
+<h2>API</h2>
+
+<p>
+    Use this api to connect to any database and 
+    get the data from any table using the url.
+</p>
+
+<h3>Config | Settings</h3>
+
+<p>
+    go to models/Connection.php
+    then change the database name and 
+    use the url to write the name of the 
+    table where you want to get the data :
+
+    <br><br>
+    http://adaptowebs/tableName
+    <br><br>
+    http://adaptowebs/courses  Or
+    <br><br>
+    http://adaptowebs/products
+</p>
