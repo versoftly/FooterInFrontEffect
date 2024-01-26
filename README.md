@@ -70,11 +70,10 @@
     then change the database name and 
     use the url to write the name of the 
     table where you want to get the data :
-
-    <br><br>
+    
     http://adaptowebs/tableName
-    <br><br>
+    
     http://adaptowebs/courses  Or
-    <br><br>
+    
     http://adaptowebs/products
 </p>
