@@ -52,10 +52,13 @@
             <header tabindex="0" rol="header">
                 <h1  rol="title">Caf&eacute; Blog</h1>
             </header>
-            <section class="contenedor mgbnone" tabindex="0" rol="section">
-                <p>
-                    starting with a !empty header =)
-                </p>
+            <section class="contenedor mgbnone cafeImgBg" tabindex="0" rol="section">
+                <div class="headerTexto">
+                    <h2>Consejos y cursos</h2>
+                    <p>
+                        A prende de los expertos.
+                    </p>
+                </div>
             </section>
             <footer  rol="footer">
                 <h3>&copy; Ramiro G Glez. 2024 '.$div.'Adaptowebs</div> -

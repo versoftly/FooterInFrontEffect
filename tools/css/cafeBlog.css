@@ -3,3 +3,11 @@
     --blanco: #ffffff;
     --negro: #000000;
 }
+
+.cafeImgBg {
+    background-image: url(../imgs//img/blog1.jpg);
+    height: 60rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
