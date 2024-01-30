@@ -12,4 +12,8 @@ dominios y paginas.
  inicia sesion y sigue las instrucciones porfavor.
 </p>
 
+<p>
+    filtrado por campos
+</p>
+
 <a href="https://adaptowebs.com">versoftly effect</a>
