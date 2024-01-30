@@ -13,7 +13,7 @@ dominios y paginas.
 </p>
 
 <p>
-    filtrado por campos
+    filtrado por campos use https://endpoint.com/tabla?select=campo,campo2,etc
 </p>
 
 <a href="https://adaptowebs.com">versoftly effect</a>
